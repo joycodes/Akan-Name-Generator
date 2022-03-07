@@ -9,9 +9,9 @@ Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 This app doesn't require any setup information. To preview, click on the live link below.
 
 # Technologies used
-Html
-CSS
-JavaScript
+## Html
+## CSS
+## JavaScript
 
 # License
 This project is licensed under the terms of the MIT license.)
