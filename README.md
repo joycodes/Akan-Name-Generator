@@ -3,15 +3,17 @@ This is a web application that takes a user's birthday and calculates the day of
 
 # Author
 Joyce Nguttu
+
+#Contact Information
 Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 
 # Setup instructions
 This app doesn't require any setup information. To preview, click on the live link below.
 
 # Technologies used
-## Html
-## CSS
-## JavaScript
+Html
+CSS
+JavaScript
 
 # License
 This project is licensed under the terms of the MIT license.)
