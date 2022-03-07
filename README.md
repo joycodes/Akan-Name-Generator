@@ -3,6 +3,8 @@ This is a web application that takes a user's birthday and calculates the day of
 
 # Author
 Joyce Nguttu
+
+# Contact Information
 Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 
 # Setup instructions
@@ -17,5 +19,6 @@ CSS
 JavaScript
 
 #License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. 
+https://github.com/joycodes/Akan-Name-Generator/blob/631c6683f526e5dd33a20f5bde0de2f6c9afbe54/LICENSE
 
