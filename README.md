@@ -4,7 +4,7 @@ This is a web application that takes a user's birthday and calculates the day of
 # Author
 Joyce Nguttu
 
-#Contact Information
+# Contact Information
 Find me on LinkedIn (https://www.linkedin.com/in/jnguttu/)
 
 # Setup instructions
